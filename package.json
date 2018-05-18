@@ -1,6 +1,6 @@
 {
   "name": "passport-twitch-oauth",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Passport strategy for authentication with Twitch",
   "keywords": ["passport", "strategy", "twitch", "auth", "oauth"],
   "author": "Matthew Gaunt <matthew@stormfoundry.co>",
